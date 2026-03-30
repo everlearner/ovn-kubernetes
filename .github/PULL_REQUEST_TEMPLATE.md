@@ -1,4 +1,9 @@
 <!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
+<!--
 Please make sure you've read and understood our contributing guidelines;
 https://github.com/ovn-kubernetes/ovn-kubernetes/blob/master/CONTRIBUTING.md
 

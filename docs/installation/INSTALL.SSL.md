@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 This document explains the way one could use SSL for connectivity between OVN
 components.  The details in this documentation needs a minimum version of
 Open vSwitch 2.7.

@@ -1,0 +1,69 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
+# Configuration for Apache SkyWalking Eyes license header checker (https://github.com/apache/skywalking-eyes)
+
+header:
+  license:
+    spdx-id: Apache-2.0
+    copyright-owner: The OVN-Kubernetes Contributors
+    content: |
+      SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+      SPDX-License-Identifier: Apache-2.0
+
+  paths-ignore:
+    # Third-party vendored code (has its own licenses)
+    - 'go-controller/vendor/**'
+
+    # Generated code (will be overwritten by generators)
+    - '**/*zz_generated*.go'
+    - '**/*_generated*.go'
+    - '**/*.pb.go'
+    - '**/mocks/*.go'
+
+    # Data/config files without comment syntax
+    - '**/*.json'
+    - '**/*.conf'
+    - '**/go.mod'
+    - '**/go.sum'
+    - '**/*.excalidraw'
+    - '**/*.ovsschema'
+    - '**/*.txt'
+    - '**/*.1'
+    - '**/*.5'
+
+    # Templates (headers can break rendering)
+    - '**/*.j2'
+    - '**/*.tpl'
+    - '**/*.gotmpl'
+    - '**/*.tmpl'
+    - 'helm/**/templates/**'
+
+    # Legal and metadata files
+    - 'LICENSE'
+    - 'OWNERS'
+    - 'CODEOWNERS'
+
+    # Ignore/dotfiles
+    - '**/*.gitignore'
+    - '.gitignore'
+    - '**/*.helmignore'
+    - '**/*.helmdocsignore'
+
+    # SVG images
+    - '**/*.svg'
+
+    # Files with non-standard extensions (manually headered)
+    - '**/*.MD'
+    - 'dist/images/Dockerfile.*'
+    - 'test/e2e/images/Dockerfile.*'
+    - 'dist/images/iptables-scripts/*'
+
+    # RPM spec snapshots and repo configs
+    - '**/*.snapshot'
+    - '**/*.repo'
+
+    # Test fixtures
+    - '**/testdata/**'
+
+  comment: on-failure

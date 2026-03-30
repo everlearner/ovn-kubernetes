@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # SDN Dashboards
 
 This helm chart installs the dashboards for ovn-kubernetes. The dashboards are installed for the following SDN components:

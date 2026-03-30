@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OVN-Kubernetes Container Images
 
 This file covers the container images available for OVN-Kubernetes and how to build them.

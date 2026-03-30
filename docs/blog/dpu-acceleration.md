@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # Accelerating and Offloading Kubernetes Networking: Leveraging DPUs with OVN-Kubernetes
 
 ## Introduction

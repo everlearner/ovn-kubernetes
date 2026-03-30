@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # External IP and LoadBalancer Ingress
 
 OVN-Kubernetes implements both External IPs and LoadBalancer Ingress IPs (`service.Status.LoadBalancer.Ingress`) in the form of OVN load balancers. These OVN load balancers live on all of the Kubernetes nodes and are thus highly available and ready for load sharing. It is the administrator's responsibility to route traffic to the Kubernetes nodes for both of these VIP types. 

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 site_name: OVN-Kubernetes
 site_url: https://www.ovn.org/ovn-kubernetes/
 repo_url: https://github.com/ovn-kubernetes/ovn-kubernetes

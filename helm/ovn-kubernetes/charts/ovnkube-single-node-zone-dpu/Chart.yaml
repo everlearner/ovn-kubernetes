@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 apiVersion: v2
 name: ovnkube-single-node-zone-dpu
 description: Helm chart to deploy single node zone stack on DPUs

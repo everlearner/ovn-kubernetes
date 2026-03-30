@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5233: Predefined addresses for primary user defined networks workloads
 
 * Issue: [#5233](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5233)

@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 If the ovn-northd instance is not running on the same node as OVN NB
 and OVN SB database, then you will need to follow the steps below to
 secure the communication between ovn-northd and NB/SB databases.

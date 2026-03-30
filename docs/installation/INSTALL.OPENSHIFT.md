@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OVN overlay network on Openshift
 
 This section describes how an OVN overlay network is setup on Openshift 4.10 and later.

@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # ovn-kubernetes Project Governance
 
 The ovn-kubernetes project is dedicated to creating a robust Kubernetes Networking platform built from the ground up by leveraging Open vSwitch (OVS) as the data plane, and Open Virtual Network (OVN) as the SDN Controller. The project focuses strictly on enhancing networking for the Kubernetes platform and includes a wide variety of features that are critical to enterprise and telco users.

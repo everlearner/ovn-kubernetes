@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # Multihoming
 ## Introduction
 Multihoming allows the configuration of secondary-network interfaces for K8s pods.

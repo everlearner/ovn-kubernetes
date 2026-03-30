@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5094: Primary UDN Layer2 topology improvements
 
 * Issue: [#5094](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5094)

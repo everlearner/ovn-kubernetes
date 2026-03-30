@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 # Values for ovn-kubernetes with single-node zone interconnect for DPU cluster
 # Requires: ovnkube-single-node-zone-dpu only
 

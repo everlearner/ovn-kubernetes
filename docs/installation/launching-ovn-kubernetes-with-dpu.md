@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # Launching OVN-Kubernetes in DPU-Accelerated environment in interconnect mode
 
 ## OVN K8s cluster setup

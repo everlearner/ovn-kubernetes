@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 name: 'Runner Diagnostics'
 description: 'Check disk space usage' # can be extended with other non-disk related steps
 runs:
