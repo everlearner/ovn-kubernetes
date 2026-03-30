@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 ### How are the mock files for unit tests organized?
 - The name of the mock file generated will be the same as the name of the `interface` definition.
 

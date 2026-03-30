@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 apiVersion: v2
 name: ovs-node
 description: Helm chart to deploy ovs

@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 Documentation is an important step in the SDLC process. Unless there are
 proper docs to tell end users about the code you contributed; there will
 be less visibility and understanding of your code and feature. It will also

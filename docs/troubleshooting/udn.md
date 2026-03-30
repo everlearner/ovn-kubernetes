@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # User Defined Networks
 
 To debug UDN the ovnkube-trace can dump multiple elements of the topology to 

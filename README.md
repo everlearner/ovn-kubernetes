@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 ![ovn-kubernetes logo](./docs/images/ovn-inside-k8s.png) <!-- markdownlint-disable-line first-line-heading -->
 
 # ovn-kubernetes: A robust Kubernetes networking platform

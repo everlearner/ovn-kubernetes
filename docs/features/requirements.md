@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # External requirements
 
 OVN-Kubernetes has additional dependencies for the external components, here are the recommended (not necessarily minimal)

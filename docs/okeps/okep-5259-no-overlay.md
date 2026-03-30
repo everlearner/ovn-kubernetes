@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5259: No-overlay Mode For Layer-3 Networks using BGP
 
 * Issue: [\#5259](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5259)

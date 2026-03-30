@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5088: EVPN Support
 
 * Issue: [#5088](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5088)

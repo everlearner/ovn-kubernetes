@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 The current Maintainers Group for the ovn-kubernetes Project consists of:
 
 | Name | Employer | Responsibilities |

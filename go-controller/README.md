@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # ovn-kubernetes go-controller
 
 The golang based ovn controller is a reliable way to deploy the OVN SDN using kubernetes clients and watchers based on golang. 

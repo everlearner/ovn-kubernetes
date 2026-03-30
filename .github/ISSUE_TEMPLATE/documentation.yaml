@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+# SPDX-License-Identifier: Apache-2.0
+
 name: Documentation
 description: Provide supporting details for a feature or bug in our documentation
 labels: kind/documentation

@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OVS Acceleration with Kernel datapath
 
 The OVS software based solution is CPU intensive, affecting system performance

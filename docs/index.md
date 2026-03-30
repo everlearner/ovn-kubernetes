@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 ![ovn-kubernetes-logo](images/ovn-inside-k8s-stacked.png)
 
 # OVN-Kubernetes: A Robust Kubernetes Networking Provider

@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-4380: Network QoS Support
 
 * Issue: [#4380](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/4380)

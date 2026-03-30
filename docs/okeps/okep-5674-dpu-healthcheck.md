@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5674: DPU Healthcheck
 
 * Issue: [#5674](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5674)

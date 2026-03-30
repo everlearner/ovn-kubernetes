@@ -1,3 +1,8 @@
+<!--
+  ~ SPDX-FileCopyrightText: Copyright The OVN-Kubernetes Contributors
+  ~ SPDX-License-Identifier: Apache-2.0
+-->
+
 # OKEP-5296: OVN-Kubernetes BGP Integration
 
 * Issue: [#5296](https://github.com/ovn-kubernetes/ovn-kubernetes/issues/5296)
